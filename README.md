@@ -2,7 +2,7 @@
 
 This project demonstrates deep learning techniques using Deep Neural Networks (DNNs) and Convolutional Neural Networks (CNNs) on two popular image datasets: **MNIST** and **CIFAR-10**. It includes model building, evaluation, and saving/loading for reuse.
 
-## 🔍 Tasks Covered
+## Tasks Covered
 
 1. **Basic DNN for MNIST**  
    - Simple feedforward neural network.
@@ -19,7 +19,7 @@ This project demonstrates deep learning techniques using Deep Neural Networks (D
 5. **Model Saving & Reloading**  
    - Saved and loaded models using `.h5` format.
 
-## 📁 Files
+## Files
 
 - `deep_learning_tasks (1).ipynb` – Jupyter notebook with all task implementations.
 - `mnist_dnn_model.h5` – Saved DNN model trained on MNIST.
@@ -27,14 +27,14 @@ This project demonstrates deep learning techniques using Deep Neural Networks (D
 - `cnn_model.h5` – Duplicate of CIFAR-10 CNN model used to demonstrate model reloading.
 - `README.md` – Project overview and instructions.
 
-## 🧠 Technologies Used
+## Technologies Used
 
 - Python
 - TensorFlow / Keras
 - MNIST & CIFAR-10 Datasets
 - Google Colab / Jupyter Notebook
 
-## ✅ How to Run
+## How to Run
 
 1. Open `deep_learning_tasks (1).ipynb` in Jupyter or [Google Colab](https://colab.research.google.com/).
 2. Run all cells in sequence.
